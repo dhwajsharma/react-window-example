@@ -1,2 +1,2 @@
 # react-window-example
-Created with CodeSandbox
+An example showing how to eeduce DOM size of react app.
